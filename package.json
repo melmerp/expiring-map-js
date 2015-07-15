@@ -1,0 +1,25 @@
+{
+  "name": "expiring-map-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melmerp/expiring-map-js.git"
+  },
+  "author": "Mark E. Pascual <markelmerp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melmerp/expiring-map-js/issues"
+  },
+  "homepage": "https://github.com/melmerp/expiring-map-js#readme"
+}
